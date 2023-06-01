@@ -48,6 +48,9 @@ Here, pointer of 9 should point to null.
 4. Print all the elements in the linked list.
 Output: 23, 52, 19, 9, 100
 
+Output:
+<img width="381" alt="p1" src="https://github.com/CS5008-5009/lab3-aaalea7/assets/35973992/d8711a39-28a1-4897-b6de-dba388f6bc96">
+
 PART 2:
 Implement a doubly linked list using structures in C. 
 The linked list structure should contain a value (int) and 2 pointers: next and prev. 
@@ -93,3 +96,6 @@ Here, pointer of 9 should point to null.
 4. Print all the elements in the linked list in reverse order.
 Original linked list : 23 <--> 52 <--> 19 <--> 9 <--> 100
 Output - 100, 9, 19, 52, 23
+
+Output:
+<img width="506" alt="p2" src="https://github.com/CS5008-5009/lab3-aaalea7/assets/35973992/73f7f174-36e9-4f17-82b2-41811a87d98f">
